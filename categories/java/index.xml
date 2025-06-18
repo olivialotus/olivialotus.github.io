@@ -27,7 +27,7 @@ VSCode检测Java环境
 </h3><p>VSCode 会通过配置的 JDK 环境变量来确认 Java 开发环境是否可用。也就是vscode会优先从系统变量里找javahome(大小写无所谓)变量,但是我们并没有配置,先前只是配置path变量里的可执行文件路径而已,所以我们手动在vscode的设置里配置了javahome的路径.
 如果环境变量配置有问题，VSCode 会提示你重新配置 JDK 路径。(也就是报错)</p>
         
-        <hr><p>本文2025-05-29首发于<a href='https://olivialotus.github.io/'>OliviaLotus</a>，最后修改于2025-05-29</p>]]></description><category>java</category></item><item><title>从java入门编程(1)-配置环境</title><link>https://olivialotus.github.io/post/%E4%BB%8Ejava%E5%85%A5%E9%97%A8%E7%BC%96%E7%A8%8B1-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</link><pubDate>Tue, 27 May 2025 20:12:52 +0800</pubDate><author>xxx@example.com (奥莉薇鴉)</author><guid>https://olivialotus.github.io/post/%E4%BB%8Ejava%E5%85%A5%E9%97%A8%E7%BC%96%E7%A8%8B1-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</guid><description>
+        <hr><p>本文2025-05-29首发于<a href='https://olivialotus.github.io/'>OliviaLotus</a>，最后修改于2025-05-29</p>]]></description><category>java</category></item><item><title>从java入门编程(1)-配置环境</title><link>https://olivialotus.github.io/post/%E4%BB%8Ejava%E5%85%A5%E9%97%A8%E7%BC%96%E7%A8%8B1-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</link><pubDate>Sun, 20 Apr 2025 20:12:52 +0800</pubDate><author>xxx@example.com (奥莉薇鴉)</author><guid>https://olivialotus.github.io/post/%E4%BB%8Ejava%E5%85%A5%E9%97%A8%E7%BC%96%E7%A8%8B1-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</guid><description>
 <![CDATA[<h1>从java入门编程(1)-配置环境</h1><p>作者：奥莉薇鴉（xxx@example.com）</p>
         
           <h2 id="配置java环境">
@@ -39,4 +39,4 @@ VSCode检测Java环境
 <img src="/post/%E4%BB%8Ejava%E5%85%A5%E9%97%A8%E7%BC%96%E7%A8%8B%281%29-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/2025-05-27-21-22-44.png" alt="">
 将下载的zip解压,我喜欢用一个目录专门存放开发环境和工具</p>
         
-        <hr><p>本文2025-05-27首发于<a href='https://olivialotus.github.io/'>OliviaLotus</a>，最后修改于2025-05-27</p>]]></description><category>java</category></item></channel></rss>
+        <hr><p>本文2025-04-20首发于<a href='https://olivialotus.github.io/'>OliviaLotus</a>，最后修改于2025-04-20</p>]]></description><category>java</category></item></channel></rss>
